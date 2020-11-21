@@ -1,0 +1,42 @@
+html {
+  font-size: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    color: #fff;
+    background: #333;
+}
+
+figure {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+h1 {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+}
+
+
+#fly {
+  width:  200px;
+  height: 200px;
+  background-size: cover;
+}
+
+#new {
+  width:  200px;
+  height: 200px;
+  background-size: cover;
+}
+
+#my {
+  width:  200px;
+  height: 200px;
+  background-size: cover;
+}
+footer {
+  padding-top: 4rem;
+  padding-bottom: 1rem;
+}
